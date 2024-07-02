@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+    background-color: #f2f2f2;
+}
+
+.container {
+    background-color: white;
+    width: 500px;
+    padding: 25px;
+    margin: 50px auto 0;
+    border-top: 5px solid blue;
+    box-shadow: 0 0 7px 5px rgba(0, 0, 0, 0.5);
+
+}
+
+.container h2 {
+    font-size: 24px;
+    line-height: 24px;
+    padding: 30PX;
+        text-align: center;
+}
+
+.input-name {
+    width: 90%;
+    position: relative;
+    margin: 20px auto;
+}
+
+.button {
+    background-color: blueviolet;
+    width: 100%;
+}
+
+.country {
+    /* background-color: blueviolet; */
+    width: 100%;
+
+}
+.text-name {
+    width: 90%;
+}
+
